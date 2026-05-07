@@ -40,3 +40,4 @@ jobs:
             echo "1 -13 42" | ./build/solver_application/solver
           fi
         shell: bash
+        
